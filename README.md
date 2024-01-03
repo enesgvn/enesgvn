@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">I'm a Computer Engineer, Full Stack Developer & Android Developer</h3>
+<h3 align="center">I'm a Computer Engineer, Networ Uzmanı</h3>
 
 <br>
 
