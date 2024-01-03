@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">I'm a Computer Engineer, Networ Uzmanı</h3>
+<h3 align="center">I'm a Computer Engineer, Ağ ve Siber Güvenlik Uzmanı</h3>
 
 <br>
-
-- 🔭 I’m currently working ASP.Net
-
-- 🌱 I’m develop responsive web projects with C#
 
 - 📫 How to reach me enes.gven24@gmail.com
 
